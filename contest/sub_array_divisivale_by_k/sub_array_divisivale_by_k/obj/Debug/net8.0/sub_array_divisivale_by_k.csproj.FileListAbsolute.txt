@@ -1,0 +1,4 @@
+D:\sub_array_divisivale_by_k\sub_array_divisivale_by_k\obj\Debug\net8.0\sub_array_divisivale_by_k.GeneratedMSBuildEditorConfig.editorconfig
+D:\sub_array_divisivale_by_k\sub_array_divisivale_by_k\obj\Debug\net8.0\sub_array_divisivale_by_k.AssemblyInfoInputs.cache
+D:\sub_array_divisivale_by_k\sub_array_divisivale_by_k\obj\Debug\net8.0\sub_array_divisivale_by_k.AssemblyInfo.cs
+D:\sub_array_divisivale_by_k\sub_array_divisivale_by_k\obj\Debug\net8.0\sub_array_divisivale_by_k.csproj.CoreCompileInputs.cache
